@@ -1,0 +1,16 @@
+website:
+www.innerken.com
+host:
+hostinger.de
+password:
+jhd961213
+
+ftp:
+ftp.innerken.com
+u238841204.admin
+Ik180513
+
+mysql:
+185.224.137.172
+u238841204_ink
+Jhd961213
