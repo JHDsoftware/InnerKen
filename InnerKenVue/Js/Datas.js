@@ -1,0 +1,1 @@
+let Data =new Vue
