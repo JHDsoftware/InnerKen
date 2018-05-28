@@ -18,6 +18,7 @@ $query=mysqli_query($link,"insert into comments(user,comment,addtime)values('$us
 if($query)  {
     $data = array("code" => 1, "message"=>"success","user" => $user , "txt" => $txt);
     echo json_encode($data);
+}
     /**
  * Created by PhpStorm.
  * User: yhs

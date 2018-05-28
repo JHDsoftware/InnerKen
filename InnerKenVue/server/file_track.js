@@ -1,5 +1,7 @@
-<?php
+<?
     include_once("connect.php");
+
+
 
 $user = htmlspecialchars(trim($_POST['user']));
 $txt = htmlspecialchars(trim($_POST['txt']));
