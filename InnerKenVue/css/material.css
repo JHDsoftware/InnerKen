@@ -1,5 +1,7 @@
 .mdl-cell {
   box-sizing: border-box;
+  display: flex;
+  justify-content: center;
   display:flex;
   justify-content: center;
   padding-left: 8px;
