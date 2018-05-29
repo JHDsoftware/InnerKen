@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3aaacdf6-435c-4c9c-8f92-be2db75f75ca" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/InnerKenVue/Html/Welcome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InnerKenVue/Js/Datas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InnerKenVue/Js/Datas.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/InnerKen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/InnerKen.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InnerKenVue/css/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/InnerKenVue/css/pages/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InnerKenVue/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/InnerKenVue/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,35 +14,147 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Welcome.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InnerKenVue/Html/Welcome.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Datas.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/InnerKenVue/Js/Datas.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" selection-start-column="17" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Datas.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InnerKenVue/Js/Datas.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="example.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/InnerKenVue/example.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="54">
+                  <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="26" />
+                  <folding>
+                    <element signature="n#style#0;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor />
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ReadMeFirst!!!!" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ReadMeFirst!!!!">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="90">
+                  <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="74" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="comment.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/InnerKenVue/server/comment.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="342">
+                  <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="connect_mysql.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/InnerKenVue/server/connect_mysql.php">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file leaf-file-name="data.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/InnerKenVue/server/data.php">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file leaf-file-name="file_track.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/InnerKenVue/server/file_track.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret lean-forward="true" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Homepage.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/InnerKenVue/server/Homepage.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="414">
+                  <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="flip.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/InnerKenVue/server/flip.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="504">
+                  <caret line="28" selection-start-line="28" selection-end-line="28" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/InnerKenVue/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-414">
+                  <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/InnerKenVue/css/styles.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="216">
+                  <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="example.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/InnerKenVue/js/pages/example.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="648">
+                  <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/InnerKenVue/css/pages/index.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="313">
+                  <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="material.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/InnerKenVue/css/material.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="90">
+                  <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="example.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/InnerKenVue/css/pages/example.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,6 +162,7 @@
         <option value="HTML File" />
         <option value="TypeScript File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -76,9 +185,28 @@
         <option value="$PROJECT_DIR$/InnerKenVue/Html/WelcomePage.html" />
         <option value="$PROJECT_DIR$/InnerKenVue/Js/Pages/Welcome.ts" />
         <option value="$PROJECT_DIR$/InnerKenVue/Js/Datas.ts" />
-        <option value="$PROJECT_DIR$/InnerKenVue/Html/Welcome.html" />
-        <option value="$PROJECT_DIR$/InnerKenVue/Js/Datas.json" />
         <option value="$PROJECT_DIR$/InnerKenVue/Js/Datas.js" />
+        <option value="$PROJECT_DIR$/InnerKenVue/Js/Datas.json" />
+        <option value="$PROJECT_DIR$/InnerKenVue/Js/common.js" />
+        <option value="$PROJECT_DIR$/reference/vue.js" />
+        <option value="$PROJECT_DIR$/reference/jquery.js" />
+        <option value="$PROJECT_DIR$/ReadMeFirst!!!!" />
+        <option value="$PROJECT_DIR$/document/Progress" />
+        <option value="$PROJECT_DIR$/InnerKenVue/Html/Welcome.html" />
+        <option value="$PROJECT_DIR$/InnerKenVue/Welcome.html" />
+        <option value="$PROJECT_DIR$/InnerKenVue/server/Homepage.php" />
+        <option value="$PROJECT_DIR$/InnerKenVue/server/flip.css" />
+        <option value="$PROJECT_DIR$/InnerKenVue/server/comment.php" />
+        <option value="$PROJECT_DIR$/InnerKenVue/server/mysql/conn.php" />
+        <option value="$PROJECT_DIR$/InnerKenVue/css/pages/example.css" />
+        <option value="$PROJECT_DIR$/InnerKenVue/css/styles.css" />
+        <option value="$PROJECT_DIR$/InnerKenVue/example.html" />
+        <option value="$PROJECT_DIR$/InnerKenVue/js/pages/example.js" />
+        <option value="$PROJECT_DIR$/InnerKenVue/入口页.html" />
+        <option value="$PROJECT_DIR$/InnerKenVue/server/file_track.js" />
+        <option value="$PROJECT_DIR$/InnerKenVue/css/material.css" />
+        <option value="$PROJECT_DIR$/InnerKenVue/index.html" />
+        <option value="$PROJECT_DIR$/InnerKenVue/css/pages/index.css" />
       </list>
     </option>
   </component>
@@ -87,10 +215,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/InnerKen/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -117,19 +241,60 @@
             <path>
               <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
               <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="document" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="InnerKenVue" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
               <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="InnerKenVue" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Html" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
               <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="InnerKenVue" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="InnerKenVue" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="InnerKenVue" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="InnerKenVue" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="server" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="reference" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="font" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -140,14 +305,16 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/InnerKen/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Work\InnerKen\resources\image" />
+      <recent name="D:\Work\InnerKen\InnerKenVue" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -179,23 +346,30 @@
       <workItem from="1526630010291" duration="2379000" />
       <workItem from="1526718517577" duration="5000" />
       <workItem from="1526722421466" duration="1371000" />
+      <workItem from="1526812638182" duration="432000" />
+      <workItem from="1527542420280" duration="3166000" />
+      <workItem from="1527546231288" duration="957000" />
+      <workItem from="1527580099076" duration="23000" />
+      <workItem from="1527596215865" duration="5540000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11529000" />
+    <option name="totallyTimeSpent" value="21647000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" order="8" visible="true" weight="0.3293348" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32897604" />
       <window_info anchor="bottom" id="TypeScript" order="8" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8699187" visible="true" weight="0.1899841" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8699187" visible="true" weight="0.19793323" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.1300813" side_tool="true" weight="0.18680446" />
@@ -210,354 +384,211 @@
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8699187" visible="true" weight="0.18680446" />
-      <window_info id="Structure" order="1" sideWeight="0.1300813" side_tool="true" visible="true" weight="0.18680446" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8699187" visible="true" weight="0.19316375" />
+      <window_info id="Structure" order="1" sideWeight="0.1300813" side_tool="true" weight="0.18680446" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/InnerKenVue/Js/Pages/Welcome.js" />
-        <option value="$PROJECT_DIR$/InnerKenVue/Js/Datas.js" />
-      </list>
-    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.module.ts">
+    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.html" />
+    <entry file="file://$PROJECT_DIR$/InnerKen/src/styles.css" />
+    <entry file="file://$PROJECT_DIR$/InnerKen/src/main.ts" />
+    <entry file="file://$PROJECT_DIR$/InnerKen/src/index.html" />
+    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.css" />
+    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.module.ts" />
+    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/material.module.ts" />
+    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.ts" />
+    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.html" />
+    <entry file="file://$PROJECT_DIR$/InnerKen/src/styles.css" />
+    <entry file="file://$PROJECT_DIR$/InnerKen/src/index.html" />
+    <entry file="file://$PROJECT_DIR$/InnerKen/src/main.ts" />
+    <entry file="file://$PROJECT_DIR$/html/Client/index.html" />
+    <entry file="file://$PROJECT_DIR$/js/angular/Strings.js" />
+    <entry file="file://$PROJECT_DIR$/html/Client/index.html" />
+    <entry file="file://$PROJECT_DIR$/js/angular/Strings.js" />
+    <entry file="file://$PROJECT_DIR$/html/Client/index.html" />
+    <entry file="file://$PROJECT_DIR$/js/angular/Strings.js" />
+    <entry file="file://$PROJECT_DIR$/js/angular/Strings.js" />
+    <entry file="file://$PROJECT_DIR$/html/Client/index.html" />
+    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/material.module.ts" />
+    <entry file="file://$PROJECT_DIR$/InnerKen/src/styles.css" />
+    <entry file="file://$PROJECT_DIR$/InnerKen/src/main.ts" />
+    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.module.ts" />
+    <entry file="file://$PROJECT_DIR$/InnerKen/src/index.html" />
+    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.ts" />
+    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.html" />
+    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.css" />
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/Js/Datas.ts" />
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/material.module.ts">
+    <entry file="file://$PROJECT_DIR$/reference/vue.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#69#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="783">
+          <caret line="5" column="86365" selection-start-line="5" selection-start-column="86365" selection-end-line="5" selection-end-column="86365" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="88" selection-start-line="9" selection-start-column="88" selection-end-line="9" selection-end-column="88" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding>
-            <element signature="n#src#0;n#img#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.css">
+    <entry file="file://$PROJECT_DIR$/reference/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <caret line="1" column="86841" selection-start-line="1" selection-start-column="86841" selection-end-line="1" selection-end-column="86841" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.module.ts">
+    <entry file="file://$PROJECT_DIR$/document/Infos.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
+        <state>
+          <caret selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/material.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#69#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="88" lean-forward="true" selection-start-line="9" selection-start-column="88" selection-end-line="9" selection-end-column="88" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding>
-            <element signature="n#src#0;n#img#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/material.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#69#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.html">
+    <entry file="file://$PROJECT_DIR$/document/Progress">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-          <folding>
-            <element signature="n#src#0;n#img#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/styles.css">
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/js/Datas.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/Client/index.html" />
-    <entry file="file://$PROJECT_DIR$/js/angular/Strings.js" />
-    <entry file="file://$PROJECT_DIR$/html/Client/index.html" />
-    <entry file="file://$PROJECT_DIR$/js/angular/Strings.js" />
-    <entry file="file://$PROJECT_DIR$/html/Client/index.html" />
-    <entry file="file://$PROJECT_DIR$/js/angular/Strings.js" />
-    <entry file="file://$PROJECT_DIR$/js/angular/Strings.js" />
-    <entry file="file://$PROJECT_DIR$/html/Client/index.html" />
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/material.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#69#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="88" selection-start-line="9" selection-start-column="88" selection-end-line="9" selection-end-column="88" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding>
-            <element signature="n#src#0;n#img#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/Js/Pages/Welcome.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/Js/Datas.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/Js/Datas.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/Html/Welcome.html">
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/server/mysql/conn.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/Js/Datas.js">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMeFirst!!!!">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/css/pages/example.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/js/pages/example.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/server/flip.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/css/material.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414">
+          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/server/comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/server/connect_mysql.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/server/data.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/server/Homepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/server/file_track.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/css/pages/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>

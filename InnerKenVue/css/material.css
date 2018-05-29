@@ -1,0 +1,26 @@
+.mdl-cell {
+  box-sizing: border-box;
+
+  display: flex;
+  justify-content: center;
+
+  padding-left: 8px;
+  padding-top: 4px;
+  color: white;
+
+}
+.image{
+min-height:960px;
+width:100%;
+background:url(../../resources/image/title.jpg)center/cover;
+}
+.left {
+float: left;
+width: 50%;
+height: 300px;
+}
+.right {
+float: right;
+width: 50%;
+height: 300px;
+}
