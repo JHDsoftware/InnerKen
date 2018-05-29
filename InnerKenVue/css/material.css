@@ -1,12 +1,13 @@
 .mdl-cell {
   box-sizing: border-box;
+
   display: flex;
   justify-content: center;
-  display:flex;
-  justify-content: center;
+
   padding-left: 8px;
   padding-top: 4px;
   color: white;
+
 }
 .image{
 min-height:960px;
