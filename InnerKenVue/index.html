@@ -11,13 +11,17 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="css/material.css">
     <link rel="stylesheet" href="css/pages/index.css">
+    <script src="../reference/jquery.js"></script>
+    <script src="../reference/vue.js"></script>
+    <script src="js/common.js"></script>
+    <script src="js/pages/index.js"></script>
 
 </head>
 <!-- Uses a header that scrolls with the text, rather than staying
   locked at the top -->
 <body>
-<div class="mdl-layout mdl-js-layout">
-    <header class="mdl-layout__header mdl-layout__header--scroll">
+<div class="mdl-layout transparentLayout mdl-js-layout">
+    <header class="mdl-layout__header  mdl-layout__header--transparent mdl-layout__header--scroll">
         <div class="mdl-layout__header-row">
             <!-- Title -->
             <span class="mdl-layout-title">InnerKen</span>
@@ -26,8 +30,8 @@
             <!-- Navigation -->
             <nav class="mdl-navigation">
                 <a class="mdl-navigation__link" href="">Home</a>
-            <a class="mdl-navigation__link" href="">Login</a>
-            <a class="mdl-navigation__link" href="">Registration</a>
+                <a class="mdl-navigation__link" href="">Login</a>
+                <a class="mdl-navigation__link" href="">Registration</a>
             </nav>
         </div>
     </header>
@@ -41,40 +45,91 @@
     </div>
     <main class="mdl-layout__content">
         <div class="navi">
-            <div class="logo">
-               <h1>InnerKen</h1>
-                <p style="    margin-top: -30px;margin-left: 4px;">
-                    A Solution Of Project Management.
-                </p>
+            <div  class="logo">
+
+
+                <img width="150px" src="../resources/image/logoW.png">
+
+                <a style="margin-top: 22px;margin-left: -2px" href="#about"
+                   class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect ">
+                     Explore
+                </a>
             </div>
         </div>
-        <div class="contentRow white">
+        <div id="about" class="contentRow white">
             <div class="col">
                 <div class="contentRowTextItem">
-                    <h2 style="text-align:center;">这是我们的第一个应用</h2>
-                    <p style="text-align:center;">我们非常喜欢使用应用，Our logo maker generates a variety of option
-                        s based on your style and preferences. You can then choose
-                        the ideal logo to represent your company’s personality
-                        and brand. The end result is a design that is adaptable, powerful,
-                        and perfectly matches your company’s branding strategy.</p>
+                    <h2 style="text-align:center;">项目简介</h2>
+                    <p style="text-align:center;">
+                        Project RED STONE， 通称需求留言板，正式名InnerKen，是JHD software计划开发
+                        的用于需求及项目管理的开源项目，现正处于筹备阶段。计划完成为以项目为核心对象的
+                        ，拥有现代化（material design）设计界面和 直观，用户友好的人机交互 以网页为
+                        基础的软件。
+                    </p>
                 </div>
             </div>
             <div class="col">
                 <div class="contentRowImgItem">
-                    <div class="img"></div>
+                    <div style="background-image: url('../resources/image/innerKenLogo.png')" class="img"></div>
                 </div>
             </div>
         </div>
-        <div class="contentRow">
+        <div id="team" class="contentRow">
+            <div class="frostedglass-inner">
+
+            </div>
+            <div class="col" style="color:white">
+                <div class="contentRowImgItem">
+                    <ul class="demo-list-icon mdl-list">
+                        <li class="mdl-list__item">
+                            <span style="color:white" class="mdl-list__item-primary-content">
+                                 <i style="color:white" class="material-icons mdl-list__item-icon">code</i>
+
+                            </span>
+                            <div id="p1" class="mdl-progress mdl-js-progress"></div>
+                        </li>
+                        <li class="mdl-list__item">
+                             <span style="color:white" class="mdl-list__item-primary-content">
+                                <i style="color:white" class="material-icons mdl-list__item-icon">view_quilt</i>
+
+                             </span>
+                            <div id="p2" class="mdl-progress mdl-js-progress"></div>
+                        </li>
+                        <li class="mdl-list__item">
+                            <span style="color:white" class="mdl-list__item-primary-content">
+                                <i style="color:white" class="material-icons mdl-list__item-icon">swap_vert</i>
+
+                            </span>
+                            <div id="p3" class="mdl-progress mdl-js-progress"></div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col" style="color:white">
+                <div class="contentRowTextItem">
+                    <h2 style="text-align:center;">项目的进展</h2>
+                    <p style="text-align:center;">
+                        后端主要使用php+mysql，采用数据库——驱动层——应用层——传输层，4层结构的构架，独立完成其中各个部分作为技术验证。
+                        前端的处理使用angular.js库，界面使用以bootstrap 为核心的多种库。
+                        前期目标为完成软件本身。
+                        中期目标为在实际应用中不断完善本软件，并收集数据。
+                        远期目标则是通过收集的数据通过机器学习完成项目成本的自动化生成。
+
+                    </p>
+                </div>
+            </div>
+
+        </div>
+        <div class="contentRow  white">
 
             <div class="col">
                 <div class="contentRowImgItem">
                     <div class="img"></div>
                 </div>
             </div>
-            <div class="col">
+            <div class="col ">
                 <div class="contentRowTextItem">
-                    <h2 style="text-align:center;">这是我们的第一个应用</h2>
+                    <h2 style="text-align:center;">团队成员</h2>
                     <p style="text-align:center;">我们非常喜欢使用应用，Our logo maker generates a variety of option
                         s based on your style and preferences. You can then choose
                         the ideal logo to represent your company’s personality
@@ -83,10 +138,13 @@
                 </div>
             </div>
         </div>
-		<div class="contentRow white">
-            <div class="col">
+        <div class="contentRow">
+            <div class="frostedglass-inner">
+
+            </div>
+            <div style="color: white " class="col">
                 <div class="contentRowTextItem">
-                    <h2 style="text-align:center;">这是我们的第一个应用</h2>
+                    <h2 style="text-align:center;">功能介绍</h2>
                     <p style="text-align:center;">我们非常喜欢使用应用，Our logo maker generates a variety of option
                         s based on your style and preferences. You can then choose
                         the ideal logo to represent your company’s personality
