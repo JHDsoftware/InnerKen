@@ -1,7 +1,7 @@
 .mdl-cell {
   box-sizing: border-box;
-  background-color: #BDBDBD;
-  height: 200px;
+  display:flex;
+  justify-content: center;
   padding-left: 8px;
   padding-top: 4px;
   color: white;
