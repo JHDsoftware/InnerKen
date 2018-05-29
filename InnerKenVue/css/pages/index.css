@@ -14,13 +14,14 @@
     align-items: center;
 }
 .logo{
-    margin-top: -50px;
+    margin-top: 150px;
+    margin-right: -34%;
     color:white;
 
 }
 .logo h1{
     font-weight: lighter;
-    font-family: light;
+
 }
 
 .white{
