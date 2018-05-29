@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3aaacdf6-435c-4c9c-8f92-be2db75f75ca" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/InnerKenVue/css/pages/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/image/title.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InnerKenVue/css/material.css" beforeDir="false" afterPath="$PROJECT_DIR$/InnerKenVue/css/material.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InnerKenVue/server/file_track.js" beforeDir="false" afterPath="$PROJECT_DIR$/InnerKenVue/server/file_track.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InnerKenVue/入口页.html" beforeDir="false" afterPath="$PROJECT_DIR$/InnerKenVue/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InnerKenVue/css/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/InnerKenVue/css/pages/index.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -101,7 +97,7 @@
             <entry file="file://$PROJECT_DIR$/InnerKenVue/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="216">
-                  <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+                  <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
                 </state>
               </provider>
             </entry>
@@ -131,8 +127,8 @@
           <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/InnerKenVue/css/pages/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret selection-end-line="42" selection-end-column="1" />
+                <state relative-caret-position="216">
+                  <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
                 </state>
               </provider>
             </entry>
@@ -140,8 +136,8 @@
           <file leaf-file-name="material.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/InnerKenVue/css/material.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="54">
-                  <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+                <state relative-caret-position="90">
+                  <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
                 </state>
               </provider>
             </entry>
@@ -206,10 +202,10 @@
         <option value="$PROJECT_DIR$/InnerKenVue/example.html" />
         <option value="$PROJECT_DIR$/InnerKenVue/js/pages/example.js" />
         <option value="$PROJECT_DIR$/InnerKenVue/入口页.html" />
-        <option value="$PROJECT_DIR$/InnerKenVue/css/material.css" />
         <option value="$PROJECT_DIR$/InnerKenVue/server/file_track.js" />
-        <option value="$PROJECT_DIR$/InnerKenVue/css/pages/index.css" />
         <option value="$PROJECT_DIR$/InnerKenVue/index.html" />
+        <option value="$PROJECT_DIR$/InnerKenVue/css/material.css" />
+        <option value="$PROJECT_DIR$/InnerKenVue/css/pages/index.css" />
       </list>
     </option>
   </component>
@@ -293,12 +289,6 @@
               <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="image" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -353,12 +343,12 @@
       <workItem from="1527542420280" duration="3166000" />
       <workItem from="1527546231288" duration="957000" />
       <workItem from="1527580099076" duration="23000" />
-      <workItem from="1527596215865" duration="3198000" />
+      <workItem from="1527596215865" duration="3382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19305000" />
+    <option name="totallyTimeSpent" value="19489000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
@@ -537,13 +527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/css/material.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/InnerKenVue/server/comment.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -581,17 +564,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/css/pages/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="42" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/InnerKenVue/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+          <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/css/material.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/css/pages/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
         </state>
       </provider>
     </entry>
