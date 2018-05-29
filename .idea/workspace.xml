@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3aaacdf6-435c-4c9c-8f92-be2db75f75ca" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InnerKenVue/css/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/InnerKenVue/css/pages/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InnerKenVue/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/InnerKenVue/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -128,8 +126,8 @@
           <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/InnerKenVue/css/pages/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="313">
-                  <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+                <state relative-caret-position="205">
+                  <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
                 </state>
               </provider>
             </entry>
@@ -283,6 +281,20 @@
             <path>
               <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
               <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="InnerKenVue" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="server" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="api" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="InnerKenVue" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="server" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="mysql" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="reference" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -350,12 +362,12 @@
       <workItem from="1527542420280" duration="3166000" />
       <workItem from="1527546231288" duration="957000" />
       <workItem from="1527580099076" duration="23000" />
-      <workItem from="1527596215865" duration="5540000" />
+      <workItem from="1527596215865" duration="5888000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21647000" />
+    <option name="totallyTimeSpent" value="21995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
@@ -484,13 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/server/mysql/conn.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -544,13 +549,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/css/material.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/InnerKenVue/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-414">
@@ -585,10 +583,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/server/mysql/conn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/css/material.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/InnerKenVue/css/pages/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        <state relative-caret-position="205">
+          <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
         </state>
       </provider>
     </entry>
