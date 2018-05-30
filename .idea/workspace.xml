@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3aaacdf6-435c-4c9c-8f92-be2db75f75ca" name="Default" comment="">
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-      <change beforePath="$PROJECT_DIR$/InnerKenVue/css/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/InnerKenVue/css/pages/index.css" afterDir="false" />
->>>>>>> parent of 416824f... update 完善了首页
-=======
-      <change afterPath="$PROJECT_DIR$/InnerKenVue/js/pages/index.js" afterDir="false" />
+    <list default="true" id="87227dc9-d9ff-40d9-b8e7-16610b7f22f2" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
->>>>>>> parent of 416824f... update 完善了首页
       <change beforePath="$PROJECT_DIR$/InnerKenVue/css/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/InnerKenVue/css/pages/index.css" afterDir="false" />
->>>>>>> parent of eb02b55... update 修复了首页
       <change beforePath="$PROJECT_DIR$/InnerKenVue/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/InnerKenVue/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,170 +14,35 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="example.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/InnerKenVue/example.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="54">
-                  <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="26" />
-                  <folding>
-                    <element signature="n#style#0;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/InnerKenVue/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-                <state relative-caret-position="72">
-                  <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-=======
-                <state relative-caret-position="324">
-                  <caret line="46" column="53" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="53" />
->>>>>>> parent of 416824f... update 完善了首页
-=======
-                <state relative-caret-position="367">
-                  <caret line="52" column="60" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
->>>>>>> parent of eb02b55... update 修复了首页
-=======
-                <state relative-caret-position="324">
-                  <caret line="46" column="53" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="53" />
->>>>>>> parent of 416824f... update 完善了首页
-                  <folding>
-                    <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-                    <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#i#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#i#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#span#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#i#0;n#span#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#div#1;n#div#4;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-<<<<<<< HEAD
-=======
-                    <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#3;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#3;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
->>>>>>> parent of 416824f... update 完善了首页
-=======
-=======
-                    <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
->>>>>>> parent of 416824f... update 完善了首页
-                    <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#3;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#3;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
->>>>>>> parent of eb02b55... update 修复了首页
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/InnerKenVue/css/styles.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="216">
-                  <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="example.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/InnerKenVue/js/pages/example.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="648">
-                  <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/InnerKenVue/css/pages/index.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="216">
-                  <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="MessageBoard.php" pinned="false" current-in-tab="false">
-            <entry file="file://D:/qqRECIV/835994535/FileRecv/innerken/MessageBoard.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-83">
-                  <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Infos.txt" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/document/Infos.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="216">
-                  <caret line="12" selection-start-line="12" selection-end-line="15" selection-end-column="9" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="item.php" pinned="false" current-in-tab="false">
-            <entry file="file://D:/qqRECIV/835994535/FileRecv/innerken/item.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="450">
-                  <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="material.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/InnerKenVue/css/material.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="example.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/InnerKenVue/css/pages/example.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="TypeScript File" />
-        <option value="JavaScript File" />
-        <option value="CSS File" />
-      </list>
-    </option>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/InnerKenVue/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2729">
+              <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/InnerKenVue/css/pages/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/InnerKenVue/example.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -196,43 +50,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/angular/Strings.js" />
-        <option value="$PROJECT_DIR$/html/Client/index.html" />
-        <option value="$PROJECT_DIR$/InnerKen/src/styles.css" />
-        <option value="$PROJECT_DIR$/InnerKen/src/app/material.module.ts" />
-        <option value="$PROJECT_DIR$/InnerKen/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/InnerKen/src/main.ts" />
-        <option value="$PROJECT_DIR$/InnerKen/src/index.html" />
-        <option value="$PROJECT_DIR$/InnerKen/src/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/InnerKen/src/app/app.component.html" />
-        <option value="$PROJECT_DIR$/InnerKen/src/app/app.component.css" />
-        <option value="$PROJECT_DIR$/InnerKenVue/Html/WelcomePage.html" />
-        <option value="$PROJECT_DIR$/InnerKenVue/Js/Pages/Welcome.ts" />
-        <option value="$PROJECT_DIR$/InnerKenVue/Js/Datas.ts" />
-        <option value="$PROJECT_DIR$/InnerKenVue/Js/Datas.js" />
-        <option value="$PROJECT_DIR$/InnerKenVue/Js/Datas.json" />
-        <option value="$PROJECT_DIR$/InnerKenVue/Js/common.js" />
-        <option value="$PROJECT_DIR$/reference/vue.js" />
-        <option value="$PROJECT_DIR$/reference/jquery.js" />
-        <option value="$PROJECT_DIR$/ReadMeFirst!!!!" />
-        <option value="$PROJECT_DIR$/document/Progress" />
-        <option value="$PROJECT_DIR$/InnerKenVue/Html/Welcome.html" />
-        <option value="$PROJECT_DIR$/InnerKenVue/Welcome.html" />
-        <option value="$PROJECT_DIR$/InnerKenVue/server/Homepage.php" />
-        <option value="$PROJECT_DIR$/InnerKenVue/server/flip.css" />
-        <option value="$PROJECT_DIR$/InnerKenVue/server/comment.php" />
-        <option value="$PROJECT_DIR$/InnerKenVue/server/mysql/conn.php" />
-        <option value="$PROJECT_DIR$/InnerKenVue/css/pages/example.css" />
-        <option value="$PROJECT_DIR$/InnerKenVue/css/styles.css" />
-        <option value="$PROJECT_DIR$/InnerKenVue/example.html" />
-        <option value="$PROJECT_DIR$/InnerKenVue/js/pages/example.js" />
-        <option value="$PROJECT_DIR$/InnerKenVue/入口页.html" />
-        <option value="$PROJECT_DIR$/InnerKenVue/server/file_track.js" />
-        <option value="$PROJECT_DIR$/InnerKenVue/css/material.css" />
-        <option value="$PROJECT_DIR$/InnerKenVue/css/pages/index.css" />
         <option value="$PROJECT_DIR$/InnerKenVue/index.html" />
-        <option value="D:/qqRECIV/835994535/FileRecv/innerken/MessageBoard.php" />
-        <option value="D:/qqRECIV/835994535/FileRecv/innerken/item.php" />
+        <option value="$PROJECT_DIR$/InnerKenVue/css/pages/index.css" />
       </list>
     </option>
   </component>
@@ -247,9 +66,6 @@
     <option name="y" value="-8" />
     <option name="width" value="2576" />
     <option name="height" value="1056" />
-  </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -267,11 +83,6 @@
             <path>
               <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
               <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="document" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="InnerKenVue" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -286,49 +97,6 @@
               <item name="InnerKenVue" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="InnerKenVue" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="InnerKenVue" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="InnerKenVue" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="server" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="InnerKenVue" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="server" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="api" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="InnerKenVue" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="server" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="mysql" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="reference" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="InnerKen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InnerKen" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -337,19 +105,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/InnerKen/node_modules/typescript/lib" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Work\InnerKen\resources\image" />
-      <recent name="D:\Work\InnerKen\InnerKenVue" />
-    </key>
+    <property name="WebServerToolWindowFactoryState" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -368,54 +124,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3aaacdf6-435c-4c9c-8f92-be2db75f75ca" name="Default" comment="" />
-      <created>1526243730059</created>
+      <changelist id="87227dc9-d9ff-40d9-b8e7-16610b7f22f2" name="Default" comment="" />
+      <created>1527678528884</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1526243730059</updated>
-      <workItem from="1526243731349" duration="4263000" />
-      <workItem from="1526329475323" duration="603000" />
-      <workItem from="1526591595567" duration="1064000" />
-      <workItem from="1526592674483" duration="1844000" />
-      <workItem from="1526630010291" duration="2379000" />
-      <workItem from="1526718517577" duration="5000" />
-      <workItem from="1526722421466" duration="1371000" />
-      <workItem from="1526812638182" duration="432000" />
-      <workItem from="1527542420280" duration="3166000" />
-      <workItem from="1527546231288" duration="957000" />
-      <workItem from="1527580099076" duration="23000" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-      <workItem from="1527596215865" duration="7317000" />
-      <workItem from="1527624140093" duration="6000" />
-      <workItem from="1527624796605" duration="6811000" />
-<<<<<<< HEAD
-      <workItem from="1527632475184" duration="66000" />
-=======
-      <workItem from="1527596215865" duration="7271000" />
->>>>>>> parent of 416824f... update 完善了首页
-=======
->>>>>>> parent of eb02b55... update 修复了首页
-=======
-      <workItem from="1527596215865" duration="7271000" />
->>>>>>> parent of 416824f... update 完善了首页
+      <updated>1527678528884</updated>
+      <workItem from="1527678531544" duration="138000" />
+      <workItem from="1527712677216" duration="6000" />
+      <workItem from="1527714205364" duration="887000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="30307000" />
-=======
-    <option name="totallyTimeSpent" value="23378000" />
->>>>>>> parent of 416824f... update 完善了首页
-=======
-    <option name="totallyTimeSpent" value="30241000" />
->>>>>>> parent of eb02b55... update 修复了首页
-=======
-    <option name="totallyTimeSpent" value="23378000" />
->>>>>>> parent of 416824f... update 完善了首页
+    <option name="totallyTimeSpent" value="1031000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
@@ -423,27 +144,16 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="File Transfer" order="8" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="File Transfer" visible="true" weight="0.3293348" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32897604" />
-      <window_info anchor="bottom" id="TypeScript" order="8" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8699187" visible="true" weight="0.2027027" />
-=======
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8699187" visible="true" weight="0.19793323" />
->>>>>>> parent of 416824f... update 完善了首页
-=======
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8699187" visible="true" weight="0.20111288" />
->>>>>>> parent of eb02b55... update 修复了首页
-=======
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8699187" visible="true" weight="0.19793323" />
->>>>>>> parent of 416824f... update 完善了首页
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25397456" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" sideWeight="0.1300813" side_tool="true" weight="0.18680446" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -454,28 +164,6 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8699187" visible="true" weight="0.19316375" />
-      <window_info id="Structure" order="1" sideWeight="0.1300813" side_tool="true" weight="0.18680446" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="TypeScript" order="12" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32897604" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -484,241 +172,38 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/main.ts" />
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/index.html" />
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.css" />
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.module.ts" />
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/material.module.ts" />
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.ts" />
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.html" />
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/styles.css" />
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/index.html" />
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/main.ts" />
-    <entry file="file://$PROJECT_DIR$/html/Client/index.html" />
-    <entry file="file://$PROJECT_DIR$/js/angular/Strings.js" />
-    <entry file="file://$PROJECT_DIR$/html/Client/index.html" />
-    <entry file="file://$PROJECT_DIR$/js/angular/Strings.js" />
-    <entry file="file://$PROJECT_DIR$/html/Client/index.html" />
-    <entry file="file://$PROJECT_DIR$/js/angular/Strings.js" />
-    <entry file="file://$PROJECT_DIR$/js/angular/Strings.js" />
-    <entry file="file://$PROJECT_DIR$/html/Client/index.html" />
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/material.module.ts" />
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/styles.css" />
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/main.ts" />
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.module.ts" />
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/index.html" />
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.ts" />
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.html" />
-    <entry file="file://$PROJECT_DIR$/InnerKen/src/app/app.component.css" />
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/Js/Datas.ts" />
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/js/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reference/vue.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="5" column="86365" selection-start-line="5" selection-start-column="86365" selection-end-line="5" selection-end-column="86365" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reference/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="86841" selection-start-line="1" selection-start-column="86841" selection-end-line="1" selection-end-column="86841" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/document/Progress">
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/js/Datas.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReadMeFirst!!!!">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/css/pages/example.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/js/pages/example.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/server/flip.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/server/comment.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/server/Homepage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/server/mysql/conn.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/css/material.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/server/file_track.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/server/data.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/server/connect_mysql.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerKenVue/example.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/InnerKenVue/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="46" column="53" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="53" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#3;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#3;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="72">
+          <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InnerKenVue/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2729">
+          <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/InnerKenVue/css/pages/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/qqRECIV/835994535/FileRecv/innerken/item.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/qqRECIV/835994535/FileRecv/innerken/MessageBoard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-83">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/document/Infos.txt">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <state relative-caret-position="72">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-=======
-        <state relative-caret-position="367">
-          <caret line="52" column="60" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
->>>>>>> parent of eb02b55... update 修复了首页
-          <folding>
-            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#span#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#4;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#3;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#3;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-=======
-        <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="15" selection-end-column="9" />
->>>>>>> parent of 416824f... update 完善了首页
-=======
-        <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="15" selection-end-column="9" />
->>>>>>> parent of 416824f... update 完善了首页
+        <state relative-caret-position="349">
+          <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
         </state>
       </provider>
     </entry>
