@@ -4,12 +4,15 @@
     <list default="true" id="3aaacdf6-435c-4c9c-8f92-be2db75f75ca" name="Default" comment="">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       <change beforePath="$PROJECT_DIR$/InnerKenVue/css/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/InnerKenVue/css/pages/index.css" afterDir="false" />
 >>>>>>> parent of 416824f... update 完善了首页
 =======
       <change afterPath="$PROJECT_DIR$/InnerKenVue/js/pages/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+>>>>>>> parent of 416824f... update 完善了首页
       <change beforePath="$PROJECT_DIR$/InnerKenVue/css/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/InnerKenVue/css/pages/index.css" afterDir="false" />
 >>>>>>> parent of eb02b55... update 修复了首页
       <change beforePath="$PROJECT_DIR$/InnerKenVue/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/InnerKenVue/index.html" afterDir="false" />
@@ -42,6 +45,7 @@
               <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 <state relative-caret-position="72">
                   <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
 =======
@@ -52,10 +56,15 @@
                 <state relative-caret-position="367">
                   <caret line="52" column="60" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
 >>>>>>> parent of eb02b55... update 修复了首页
+=======
+                <state relative-caret-position="324">
+                  <caret line="46" column="53" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="53" />
+>>>>>>> parent of 416824f... update 完善了首页
                   <folding>
                     <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+<<<<<<< HEAD
 <<<<<<< HEAD
                     <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -79,6 +88,10 @@
                     <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#3;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
 >>>>>>> parent of 416824f... update 完善了首页
 =======
+=======
+                    <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+>>>>>>> parent of 416824f... update 完善了首页
                     <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#3;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#3;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
 >>>>>>> parent of eb02b55... update 修复了首页
@@ -372,6 +385,7 @@
       <workItem from="1527546231288" duration="957000" />
       <workItem from="1527580099076" duration="23000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1527596215865" duration="7317000" />
       <workItem from="1527624140093" duration="6000" />
       <workItem from="1527624796605" duration="6811000" />
@@ -382,10 +396,14 @@
 >>>>>>> parent of 416824f... update 完善了首页
 =======
 >>>>>>> parent of eb02b55... update 修复了首页
+=======
+      <workItem from="1527596215865" duration="7271000" />
+>>>>>>> parent of 416824f... update 完善了首页
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="30307000" />
@@ -395,6 +413,9 @@
 =======
     <option name="totallyTimeSpent" value="30241000" />
 >>>>>>> parent of eb02b55... update 修复了首页
+=======
+    <option name="totallyTimeSpent" value="23378000" />
+>>>>>>> parent of 416824f... update 完善了首页
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
@@ -409,6 +430,7 @@
       <window_info anchor="bottom" id="TypeScript" order="8" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8699187" visible="true" weight="0.2027027" />
 =======
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8699187" visible="true" weight="0.19793323" />
@@ -416,6 +438,9 @@
 =======
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8699187" visible="true" weight="0.20111288" />
 >>>>>>> parent of eb02b55... update 修复了首页
+=======
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8699187" visible="true" weight="0.19793323" />
+>>>>>>> parent of 416824f... update 完善了首页
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.1300813" side_tool="true" weight="0.18680446" />
@@ -656,6 +681,7 @@
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="72">
           <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
 =======
@@ -685,6 +711,10 @@
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#3;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#3;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="216">
+          <caret line="12" selection-start-line="12" selection-end-line="15" selection-end-column="9" />
+>>>>>>> parent of 416824f... update 完善了首页
 =======
         <state relative-caret-position="216">
           <caret line="12" selection-start-line="12" selection-end-line="15" selection-end-column="9" />
