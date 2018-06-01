@@ -1,226 +1,164 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>InnerKen | 最好的团队管理软件</title>
-    <!-- Material Design Lite -->
-    <script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
-    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
-    <!-- Material Design icon font -->
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700" type="text/css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <link rel="stylesheet" href="css/material.css">
-    <link rel="stylesheet" href="css/pages/index.css">
-    <script src="../reference/jquery.js"></script>
-    <script src="../reference/vue.js"></script>
-    <script src="js/common.js"></script>
-    <script src="js/sketch.min.js"></script>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>InnerKen|最好的团队管理软件</title>
 
-    <script src="js/pages/index.js"></script>
-
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
-<!-- Uses a header that scrolls with the text, rather than staying
-  locked at the top -->
 <body>
-<div id="container" class="mdl-layout transparentLayout mdl-js-layout">
-    <header class="mdl-layout__header  mdl-layout__header--transparent mdl-layout__header--scroll">
-        <div class="mdl-layout__header-row">
-            <!-- Title -->
-            <span class="mdl-layout-title">InnerKen</span>
-            <!-- Add spacer, to align navigation to the right -->
-            <div class="mdl-layout-spacer"></div>
-            <!-- Navigation -->
-            <nav class="mdl-navigation">
-                <a class="mdl-navigation__link" href="index.html">Home</a>
-                <a class="mdl-navigation__link" href="login.html">Login</a>
-                <a class="mdl-navigation__link" href="registration.html">Registration</a>
-            </nav>
-        </div>
-    </header>
-    <div class="mdl-layout__drawer">
-        <span class="mdl-layout-title">InnerKen</span>
-        <nav class="mdl-navigation">
-            <a class="mdl-navigation__link" href="index.html">Home</a>
-            <a class="mdl-navigation__link" href="login.html">Login</a>
-            <a class="mdl-navigation__link" href="registration.html">Registration</a>
-        </nav>
+  <nav class="white" role="navigation">
+    <div class="nav-wrapper container">
+      <a id="logo-container" href="#" class="brand-logo">InnerKen</a>
+      <ul class="right hide-on-med-and-down">
+        <li><a href="registration.html">Registrate</a></li>
+      </ul>
+
+      <ul id="nav-mobile" class="sidenav">
+        <li><a href="#">Navbar Link</a></li>
+      </ul>
+      <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
     </div>
-    <main class="mdl-layout__content">
-        <div class="navi">
-            <div  class="logo">
+  </nav>
 
-
-                <img width="150px" src="../resources/image/logoW.png">
-
-                <a style="margin-top: 22px;margin-left: -2px" href="#about"
-                   class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect ">
-                    Explore
-                </a>
-            </div>
+  <div id="index-banner" class="parallax-container">
+    <div class="section no-pad-bot">
+      <div class="container">
+        <br><br>
+        <h1 class="header center teal-text text-lighten-2">InnerKen</h1>
+        <div class="row center">
+          <h5 class="header col s12 light">最好的团队管理软件</h5>
         </div>
-        <div id="about" class="contentRow white">
-            <div class="col">
-                <div class="contentRowTextItem">
-                    <h2 style="text-align:center;">项目简介</h2>
-                    <p style="text-align:center;">
-                        Project RED STONE， 通称需求留言板，正式名InnerKen，是JHD software计划开发
-                        的用于需求及项目管理的开源项目，现正处于筹备阶段。计划完成为以项目为核心对象的
-                        ，拥有现代化（material design）设计界面和 直观，用户友好的人机交互 以网页为
-                        基础的软件。
-                    </p>
-                </div>
-            </div>
-            <div class="col">
-                <div class="contentRowImgItem">
-                    <div style="background-image: url('../resources/image/innerKenLogo.png')" class="img"></div>
-                </div>
-            </div>
+        <div class="row center">
+          <a href="login.html" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Login</a>
         </div>
-        <div id="team" class="contentRow">
-            <div class="frostedglass-inner">
+        <br><br>
 
-            </div>
-            <div class="col" style="color:white">
-                <div class="contentRowImgItem">
-                    <ul class="demo-list-icon mdl-list">
-                        <li class="mdl-list__item">
-                            <span style="color:white" class="mdl-list__item-primary-content">
-                                 <i style="color:white" class="material-icons mdl-list__item-icon">code</i>
+      </div>
+    </div>
+    <div class="parallax"><img src="../resources/image/background1.jpg" alt="Unsplashed background img 1"></div>
+  </div>
 
-                            </span>
-                            <div id="p1" class="mdl-progress mdl-js-progress"></div>
-                        </li>
-                        <li class="mdl-list__item">
-                             <span style="color:white" class="mdl-list__item-primary-content">
-                                <i style="color:white" class="material-icons mdl-list__item-icon">view_quilt</i>
 
-                             </span>
-                            <div id="p2" class="mdl-progress mdl-js-progress"></div>
-                        </li>
-                        <li class="mdl-list__item">
-                            <span style="color:white" class="mdl-list__item-primary-content">
-                                <i style="color:white" class="material-icons mdl-list__item-icon">swap_vert</i>
+  <div class="container">
+    <div class="section">
 
-                            </span>
-                            <div id="p3" class="mdl-progress mdl-js-progress"></div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col" style="color:white">
-                <div class="contentRowTextItem">
-                    <h2 style="text-align:center;">项目的进展</h2>
-                    <p style="text-align:center;">
-                        后端主要使用php+mysql，采用数据库——驱动层——应用层——传输层，4层结构的构架，独立完成其中各个部分作为技术验证。
-                        前端的处理使用angular.js库，界面使用以bootstrap 为核心的多种库。
-                        前期目标为完成软件本身。
-                        中期目标为在实际应用中不断完善本软件，并收集数据。
-                        远期目标则是通过收集的数据通过机器学习完成项目成本的自动化生成。
+      <!--   Icon Section   -->
+      <div class="row">
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">flash_on</i></h2>
+            <h5 class="center">Speeds up development</h5>
 
-                    </p>
-                </div>
-            </div>
-
-        </div>
-        <div class="contentRow  white">
-
-            <div class="col">
-                <div class="contentRowImgItem">
-                    <div class="img"></div>
-                </div>
-            </div>
-            <div class="col ">
-                <div class="contentRowTextItem">
-                    <h2 style="text-align:center;">团队成员</h2>
-                    <p style="text-align:center;">我们非常喜欢使用应用，Our logo maker generates a variety of option
-                        s based on your style and preferences. You can then choose
-                        the ideal logo to represent your company’s personality
-                        and brand. The end result is a design that is adaptable, powerful,
-                        and perfectly matches your company’s branding strategy.</p>
-                </div>
-            </div>
-        </div>
-        <div class="contentRow">
-            <div class="frostedglass-inner">
-
-            </div>
-            <div style="color: white " class="col">
-                <div class="contentRowTextItem">
-                    <h2 style="text-align:center;">功能介绍</h2>
-                    <p style="text-align:center;">我们非常喜欢使用应用，Our logo maker generates a variety of option
-                        s based on your style and preferences. You can then choose
-                        the ideal logo to represent your company’s personality
-                        and brand. The end result is a design that is adaptable, powerful,
-                        and perfectly matches your company’s branding strategy.</p>
-                </div>
-            </div>
-            <div class="col">
-                <div class="contentRowImgItem">
-                    <div class="img"></div>
-                </div>
-            </div>
+            <p class="light">We did most of the heavy lifting for you to provide a default stylings that incorporate our custom components. Additionally, we refined animations and transitions to provide a smoother experience for developers.</p>
+          </div>
         </div>
 
-    </main>
-    <footer class="mdl-mega-footer">
-        <div class="mdl-mega-footer__middle-section">
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">group</i></h2>
+            <h5 class="center">User Experience Focused</h5>
 
-            <div class="mdl-mega-footer__drop-down-section">
-                <input class="mdl-mega-footer__heading-checkbox" type="checkbox" checked>
-                <h1 class="mdl-mega-footer__heading">Features</h1>
-                <ul class="mdl-mega-footer__link-list">
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Terms</a></li>
-                    <li><a href="#">Partners</a></li>
-                    <li><a href="#">Updates</a></li>
-                </ul>
-            </div>
-
-            <div class="mdl-mega-footer__drop-down-section">
-                <input class="mdl-mega-footer__heading-checkbox" type="checkbox" checked>
-                <h1 class="mdl-mega-footer__heading">Details</h1>
-                <ul class="mdl-mega-footer__link-list">
-                    <li><a href="#">Specs</a></li>
-                    <li><a href="#">Tools</a></li>
-                    <li><a href="#">Resources</a></li>
-                </ul>
-            </div>
-
-            <div class="mdl-mega-footer__drop-down-section">
-                <input class="mdl-mega-footer__heading-checkbox" type="checkbox" checked>
-                <h1 class="mdl-mega-footer__heading">Technology</h1>
-                <ul class="mdl-mega-footer__link-list">
-                    <li><a href="#">How it works</a></li>
-                    <li><a href="#">Patterns</a></li>
-                    <li><a href="#">Usage</a></li>
-                    <li><a href="#">Products</a></li>
-                    <li><a href="#">Contracts</a></li>
-                </ul>
-            </div>
-
-            <div class="mdl-mega-footer__drop-down-section">
-                <input class="mdl-mega-footer__heading-checkbox" type="checkbox" checked>
-                <h1 class="mdl-mega-footer__heading">FAQ</h1>
-                <ul class="mdl-mega-footer__link-list">
-                    <li><a href="#">Questions</a></li>
-                    <li><a href="#">Answers</a></li>
-                    <li><a href="#">Contact us</a></li>
-                </ul>
-            </div>
-
+            <p class="light">By utilizing elements and principles of Material Design, we were able to create a framework that incorporates components and animations that provide more feedback to users. Additionally, a single underlying responsive system across all platforms allow for a more unified user experience.</p>
+          </div>
         </div>
 
-        <div class="mdl-mega-footer__bottom-section">
-            <div class="mdl-logo">Title</div>
-            <ul class="mdl-mega-footer__link-list">
-                <li><a href="#">Help</a></li>
-                <li><a href="#">Privacy & Terms</a></li>
-            </ul>
-        </div>
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center brown-text"><i class="material-icons">settings</i></h2>
+            <h5 class="center">Easy to work with</h5>
 
-    </footer>
-</div>
-<script src="js/index.js"></script>
-</body>
+            <p class="light">We have provided detailed documentation as well as specific code examples to help new users get started. We are also always open to feedback and can answer any questions a user may have about Materialize.</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+
+  <div class="parallax-container valign-wrapper">
+    <div class="section no-pad-bot">
+      <div class="container">
+        <div class="row center">
+          <h5 class="header col s12 light">A modern responsive front-end framework based on Material Design</h5>
+        </div>
+      </div>
+    </div>
+    <div class="parallax"><img src="../resources/image/background2.jpg" alt="Unsplashed background img 2"></div>
+  </div>
+
+  <div class="container">
+    <div class="section">
+
+      <div class="row">
+        <div class="col s12 center">
+          <h3><i class="mdi-content-send brown-text"></i></h3>
+          <h4>Contact Us</h4>
+          <p class="left-align light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque id nunc nec volutpat. Etiam pellentesque tristique arcu, non consequat magna fermentum ac. Cras ut ultricies eros. Maecenas eros justo, ullamcorper a sapien id, viverra ultrices eros. Morbi sem neque, posuere et pretium eget, bibendum sollicitudin lacus. Aliquam eleifend sollicitudin diam, eu mattis nisl maximus sed. Nulla imperdiet semper molestie. Morbi massa odio, condimentum sed ipsum ac, gravida ultrices erat. Nullam eget dignissim mauris, non tristique erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+
+  <div class="parallax-container valign-wrapper">
+    <div class="section no-pad-bot">
+      <div class="container">
+        <div class="row center">
+          <h5 class="header col s12 light">A modern responsive front-end framework based on Material Design</h5>
+        </div>
+      </div>
+    </div>
+    <div class="parallax"><img src="../resources/image/background3.jpg" alt="Unsplashed background img 3"></div>
+  </div>
+
+  <footer class="page-footer teal">
+    <div class="container">
+      <div class="row">
+        <div class="col l6 s12">
+          <h5 class="white-text">Company Bio</h5>
+          <p class="grey-text text-lighten-4">We are a team of college students working on this project like it's our full time job. Any amount would help support and continue development on this project and is greatly appreciated.</p>
+
+
+        </div>
+        <div class="col l3 s12">
+          <h5 class="white-text">Settings</h5>
+          <ul>
+            <li><a class="white-text" href="#!">Link 1</a></li>
+            <li><a class="white-text" href="#!">Link 2</a></li>
+            <li><a class="white-text" href="#!">Link 3</a></li>
+            <li><a class="white-text" href="#!">Link 4</a></li>
+          </ul>
+        </div>
+        <div class="col l3 s12">
+          <h5 class="white-text">Connect</h5>
+          <ul>
+            <li><a class="white-text" href="#!">Link 1</a></li>
+            <li><a class="white-text" href="#!">Link 2</a></li>
+            <li><a class="white-text" href="#!">Link 3</a></li>
+            <li><a class="white-text" href="#!">Link 4</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer-copyright">
+      <div class="container">
+      InnerKen
+      </div>
+    </div>
+  </footer>
+
+
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="js/materialize.js"></script>
+  <script src="js/init.js"></script>
+
+  </body>
 </html>
