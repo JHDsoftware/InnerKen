@@ -1,0 +1,101 @@
+html,body{
+	width: 100%;
+	height: 100%;
+}
+.head{
+	width: 100%;
+	height: 120px;
+	background-color:#383838;
+	text-align: center;
+	line-height: 120px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	color: hsla(0,0%,89%,1.00);
+}
+
+.nave{
+	width:253px;
+	background: #eee;
+	position: fixed;
+	left: 0;
+	top: 120px;
+}
+.nave ul{width: 100%;height: 100%;}
+.nave ul li{
+	width: 100%;
+	text-align: center;
+	cursor: pointer;
+	transition: all 1s;
+	-webkit-transition: all 1s;
+	-moz-transition: all 1s;
+	-ms-transition: all 1s;
+	-o-transition: all 1s;
+}
+.nave ul li:nth-child(even){
+	background: #fff;
+}
+.nave ul li:nth-child(1).current{
+	background: antiquewhite;
+}
+.nave ul li:nth-child(2).current{
+	background: #474a57;
+}
+.nave ul li:nth-child(3).current{
+	background: #e4af05;
+}
+.nave ul li:nth-child(4).current{
+	background: #7cd454;
+}
+.nave ul li:nth-child(5).current{
+	background: #3db416;
+}
+.nave ul li:nth-child(6).current{
+	background: #4472bb;
+}
+.nave ul li:nth-child(7).current{
+	background: #4993e6;
+}
+
+
+.main_box{
+	width: 100%;
+	height: 100%;
+	padding: 120px 0 0 260px;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-o-box-sizing: border-box;
+}
+
+.main_box>div{
+	width: 100%;
+}
+.page1{
+	background:antiquewhite;
+}
+.page2{
+	background: #474a57;
+}
+.page3{
+	background: #e4af05;
+}
+.page4{
+	background: #7cd454;
+}
+.page5{
+	background: #3db416;
+}
+.page6{
+	background: #4472bb;
+}
+.page7{
+	background: #4993e6;
+}
+
+.fotter{
+	width: 100%;
+	height: 200px;
+	background: pink;
+}
