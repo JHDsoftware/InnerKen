@@ -7,13 +7,13 @@ header("Access-Control-Allow-Origin: *");
  * Date: 2018/5/13
  * Time: 0:12
  */
-$db_host = 'sql152.main-hosting.eu';
+$db_host = 'mysql.hostinger.de';
 //用户名
 $db_user = 'u238841204_ink';
 //密码
 $db_password = 'Jhd961213.';
 //数据库名
-$db_name = 'InnerKenData';
+$db_name = 'u238841204_ink';
 //端口
 $db_port = '3306';
 //连接数据库
@@ -30,7 +30,7 @@ function connectDB(){
 //密码
     $db_password = 'Jhd961213.';
 //数据库名
-    $db_name = 'InnerKenData';
+    $db_name = 'u238841204_ink';
 //端口
     $db_port = '3306';
 //连接数据库
@@ -39,6 +39,7 @@ function connectDB(){
     if ($conn->connect_error) {
         die("连接失败: " . $conn->connect_error);
     }
+    return $conn;
 }
 interface ISql
 {
