@@ -17,11 +17,12 @@ $db_name = 'u238841204_ink';
 //端口
 $db_port = '3306';
 //连接数据库
-$conn = new mysqli($db_host, $db_user, $db_password, $db_name, $db_port);// or die('连接数据库失败！');
-//echo json_encode($conn).'<br/>';
-if ($conn->connect_error) {
-    die("连接失败: " . $conn->connect_error);
-}
+
+//$conn = new mysqli($db_host, $db_user, $db_password, $db_name, $db_port);// or die('连接数据库失败！');
+////echo json_encode($conn).'<br/>';
+//if ($conn->connect_error) {
+//    die("连接失败: " . $conn->connect_error);
+//}
 
 function connectDB(){
     $db_host = 'sql152.main-hosting.eu';
