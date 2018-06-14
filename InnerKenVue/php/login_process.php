@@ -10,8 +10,8 @@ $email = $_POST['email'];//post获得用户名表单值
 $passowrd = $_POST['password'];//post获得用户密码单值
 
 if ($email && $passowrd){//如果用户名和密码都不为空
-    $sql = "select * from user where email = '$email' and password='$passowrd'";//检测数据库是否有对应的username和password的sql
-    $result = mysqli_query($sql);//执行sql
+    $sql = "select * from  where email = '$email' and password='$passowrd'";//检测数据库是否有对应的username和password的sql
+    $result =mysqli_query($sql);//执行sql
     $rows=mysqli_num_rows($result);//返回一个数值
     if($rows){
         header("refresh:0;url=index.html");
