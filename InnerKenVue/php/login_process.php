@@ -1,4 +1,4 @@
-<?PHP
+<?php
 header("Content-Type: text/html; charset=utf8");
 //if(!isset($_POST["submit"])){
 //    exit("错误执行");
