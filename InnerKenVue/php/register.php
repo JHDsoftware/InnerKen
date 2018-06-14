@@ -1,36 +1,26 @@
 <?php
-    include_once("../function/item.php");
-class register extends DB{
-    if (empty($_POST)) {
-        exit("您提交的表单数据超过post_max_size! <br>");
-    
-    $password = $_POST['password'];
-    $confirmPassword = $_POST['confirmPassword'];
-    if ($password != $confirmPassword) {
-        exit("输入的密码与确认密码不相等！");
-    }
+include_once ("DataBaseR.php");
+connectDB();
 
-    $userName = $_POST['userName'];
-    $domain = $_POST['domain'];
-    $userName = $userName . $domain;
+header("Content-Type: text/html; charset=utf8");
 
-    // 判断用户名是否重复
-    $userNameSQL = "select * from users where userName = '$userName'";
-    getConnect();
-    $resultSet = mysql_query($userNameSQL);
-    if (mysql_num_rows($resultSet) > 0) {
-        exit("用户名已被占用，请更换其他用户名");
-    }
-   
-    $registerSQL = "insert into users values(null, '$userName', '$password' )";
-   
-    $userSQL = "select * from users where user_id = '$userID'";
-    $userResult = mysqli_query($userSQL);
-    if ($user = mysqli_fetch_array($userResult)) {
-        echo "您的注册用户名为：" . $user['userName'];
-    } else {
-        exit("用户注册失败！");
-    }
-    closeConnect();
+if(!isset($_POST['submit'])){
+    exit("错误执行");
+}//判断是否有submit操作
+$email=$_POST['email'];
+$username=$_POST['name'];//post获取表单里的name
+$password=$_POST['password'];//post获取表单里的password
+
+
+$sqlinsert="insert into user(email,username,password) values ('$name','$password')";//向数据库插入表单传来的值的sql
+$reslut=mysqli_query($sqlinsert,$conn);//执行sql
+
+if (!$reslut){
+    die('Error: ' . mysqli_error());//如果sql执行失败输出错误
+}else{
+    echo "注册成功";//成功输出注册成功
 }
-?>
+
+
+
+mysqli_close($conn);//关闭数据库
