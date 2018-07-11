@@ -121,5 +121,6 @@ html,body{
 .table{
 	height:100%;
 	width:100%;
-	border-style: dotted;
+	border-style:outset;
+	border-width:2px;
 }
