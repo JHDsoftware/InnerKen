@@ -2,6 +2,9 @@ html,body{
 	width: 100%;
 	height: 100%;
 }
+.body{
+	background-color:#383838;
+}
 .head{
 	width: 100%;
 	height: 120px;
@@ -45,7 +48,7 @@ html,body{
 	background: #e4af05;
 }
 .nave ul li:nth-child(4).current{
-	background: #7cd454;
+	
 }
 .nave ul li:nth-child(5).current{
 	background: #3db416;
@@ -82,7 +85,7 @@ html,body{
 	background: #e4af05;
 }
 .page4{
-	background: #7cd454;
+    background: #FFFFFF;
 }
 .page5{
 	background: #3db416;
@@ -114,4 +117,10 @@ html,body{
     background-color:#FFFFFF;
     box-shadow: 5px 5px 5px #888888;
                                                                                                                                                                                                                                                                                                                                                                          
+}
+.table{
+	height:100%;
+	width:100%;
+	border-style:outset;
+	border-width:2px;
 }
